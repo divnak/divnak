@@ -3,6 +3,11 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,py,nodejs,php,visualstudio,vscode,firebase,mysql,wordpress&theme=light)](https://skillicons.dev)
 
 <!--
+https://hendrasob.github.io/badges/
+
+[![1](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://shields.io/)-->
+
+<!--
 **divnak/divnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
