@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,py,nodejs,php,visualstudio,vscode,firebase,mysql,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,py,nodejs,php,visualstudio,vscode,firebase,mysql,wordpress&theme=light)](https://skillicons.dev)
 
 <!--
 **divnak/divnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
