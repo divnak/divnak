@@ -44,6 +44,9 @@ Some badges... [src](https://github.com/Ileriayo/markdown-badges)
 <!-- #### Search engines -->
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+<!-- #### Forums -->
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
+
 <!--
 **divnak/divnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
